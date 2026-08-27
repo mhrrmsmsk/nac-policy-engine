@@ -5,7 +5,7 @@
 [![FreeRADIUS](https://img.shields.io/badge/FreeRADIUS-3.2-darkred.svg)](https://freeradius.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)](https://www.docker.com/)
 
-Bu proje, S3M Security staj değerlendirme süreci kapsamında tasarlanmış ve geliştirilmiş, **RADIUS protokolü tabanlı bir Network Access Control (NAC)** sistemidir. Sistem; ağa dahil olmak isteyen cihaz ve kullanıcılar için AAA (Authentication, Authorization, Accounting) süreçlerini uçtan uca yönetmektedir.
+Bu proje, **RADIUS protokolü tabanlı bir Network Access Control (NAC)** sistemidir. Sistem; ağa dahil olmak isteyen cihaz ve kullanıcılar için AAA (Authentication, Authorization, Accounting) süreçlerini uçtan uca yönetmektedir.
 
 Tüm altyapı Docker Compose kullanılarak izole bir ağ ortamında konteynerize edilmiş olup, dinamik politika yönetimi FastAPI tabanlı bir RESTful API üzerinden sağlanmaktadır.
 
