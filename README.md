@@ -41,4 +41,4 @@ Sistemi lokal ortamınızda ayağa kaldırmak için **Docker** ve **Docker Compo
 **1. Repoyu Klonlayın:**
 ```bash
 git clone https://github.com/mhrrmsmsk/nac-policy-engine.git
-cd s3m-nac
+cd nac-policy-engine
